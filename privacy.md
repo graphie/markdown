@@ -10,7 +10,7 @@
 
 5.	We may use 'cookies' while you access the Site to avoid the need to re-enter details on different occasions. If you do not wish to receive ‘cookies’, you may change the settings on your computer or browser accordingly.
 
-6.	Please note that, from time to time, we may transfer your personal data for internal business purposes to locations outside the European Economic Area, some of which may have different data protection laws to the EU and/or the UK, or no data protection laws. Note that in respect of information transmitted to the US, we shall only transmit such information to entities that comply with suitable policies.
+6.	Please note that, from time to time, we may transfer your personal data for internal business purposes to locations outside the Russian Federation, some of which may have different data protection laws to the Russian Federation, or no data protection laws. Note that in respect of information transmitted to the European Economic Area or/and US, we shall only transmit such information to entities that comply with suitable policies.
 
 7.	If you do not want us to retain or use your personal information in any way, please do not provide the data to us or, if you have already provided personal information and wish to withdraw your consent, please contact us via <data@phie.io>.
 
