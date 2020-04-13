@@ -1,5 +1,5 @@
 # TERMS OF DELIVERY - GRAPHY
-THE RESULTS OF PROVISIONED SERVICES ON THE SITE [www.phie.io] (https://phie.io/) AND/OR IN THE MOBILE APPLICATION “GRAPHIE” IS DELIVERED BY THE FOLLOWING METHOD:
+THE RESULTS OF PROVISIONED SERVICES ON THE SITE [grafia.ink] (https://grafia.ink/) AND/OR IN THE MOBILE APPLICATION “GRAFIA.INK” IS DELIVERED BY THE FOLLOWING METHOD:
 
 1. **TRANSPORTATION (TRANSIT)**. For delivering domestic and international shipments, the postal services of public service operators are used, which carry out transportation by land and air. Packaging of printed products is carried out in paper envelopes.
 
